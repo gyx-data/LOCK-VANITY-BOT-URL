@@ -1,0 +1,10 @@
+{
+  "token": "DISCORD_BOT_TOKEN",
+  "clientId": "APPLICATION_CLIENT_ID",
+  "guildId": "TARGET_GUILD_ID",
+  "adminId": "ADMIN_USER_ID",
+  "lockedVanityCode": "",
+  "whitelistUserIds": [
+    "ADMIN_USER_ID"
+  ]
+}
