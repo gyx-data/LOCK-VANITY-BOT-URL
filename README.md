@@ -8,7 +8,7 @@ Discord bot (Node.js ≥ 20) that keeps a guild vanity URL locked.
 
 ## Quick start
 ```bash
-git clone https://github.com/gyx-data/LOCK-URL-BOTS.git
+git clone https://github.com/gyx-data/LOCK-VANITY-BOT-URL.git
 cd lock-bot-url
 npm install
 ```
